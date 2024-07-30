@@ -1,0 +1,906 @@
+Welcome to the tic-tac-toe puzzle
+Would you like the computer to go first? (y/n)
+y
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 0.0277475 seconds
+Depth 2: 0.223634899 seconds
+Depth 3: 0.594081099 seconds
+Depth 4: 3.3186257 seconds
+Max time reached
+Optimal move found in: 5.001 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4
+B - - - - - - - -
+C - - - - - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: c3
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - - - - - -
+C - - O - - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 0.001161 seconds
+Depth 2: 0.0071075 seconds
+Depth 3: 0.144062801 seconds
+Depth 4: 2.370880001 seconds
+Max time reached
+Optimal move found in: 5.000 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - - - - - -     2. C4
+C - - O X - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: b4
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 5.549E-4 seconds
+Depth 2: 0.004725699 seconds
+Depth 3: 0.413405 seconds
+Optimal move found in: 0.414 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -     3. D6
+D - - - X - X - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: d5
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - - - X O X - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 0.001051201 seconds
+Depth 2: 0.005238601 seconds
+Depth 3: 0.447671201 seconds
+Optimal move found in: 0.448 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X - X O X - -     4. D2
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: d3
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 0.002058299 seconds
+Depth 2: 0.0228725 seconds
+Depth 3: 0.180190999 seconds
+Optimal move found in: 0.181 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - - - - - - -     5. F4
+F - - - X - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: e4
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - - O - - - -     5. F4 E4
+F - - - X - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 4.52901E-4 seconds
+Depth 2: 0.004361601 seconds
+Depth 3: 0.119163901 seconds
+Depth 4: 1.831414601 seconds
+Optimal move found in: 1.832 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - - - X - - - -     6. E3
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: f2
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O - - - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O - X - - - -     6. E3 F2
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 5.268E-4 seconds
+Depth 2: 0.0037191 seconds
+Depth 3: 0.0671254 seconds
+Depth 4: 0.7468616 seconds
+Optimal move found in: 0.747 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O X - - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O - X - - - -     6. E3 F2
+G - - - - - - - -     7. B5
+H - - - - - - - -
+
+Choose your move: b6
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - - - O X O - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O - X - - - -     6. E3 F2
+G - - - - - - - -     7. B5 B6
+H - - - - - - - -
+
+Depth 1: 4.655E-4 seconds
+Depth 2: 0.0034017 seconds
+Depth 3: 0.0674718 seconds
+Depth 4: 0.7781593 seconds
+Optimal move found in: 0.779 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - - O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O - X - - - -     6. E3 F2
+G - - - - - - - -     7. B5 B6
+H - - - - - - - -     8. B2
+
+Choose your move: c2
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X - - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O - X - - - -     6. E3 F2
+G - - - - - - - -     7. B5 B6
+H - - - - - - - -     8. B2 C2
+
+Depth 1: 4.34901E-4 seconds
+Depth 2: 0.0028631 seconds
+Depth 3: 0.065777101 seconds
+Depth 4: 0.698164301 seconds
+Optimal move found in: 0.699 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X - - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O - X - - - -     6. E3 F2
+G - - - - - - - -     7. B5 B6
+H - - - - - - - -     8. B2 C2
+                      9. C5
+
+Choose your move: c6
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O - X - - - -     6. E3 F2
+G - - - - - - - -     7. B5 B6
+H - - - - - - - -     8. B2 C2
+                      9. C5 C6
+
+Depth 1: 4.41801E-4 seconds
+Depth 2: 0.002987101 seconds
+Depth 3: 0.043001001 seconds
+Depth 4: 0.5755771 seconds
+Optimal move found in: 0.576 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O - X - - - -     6. E3 F2
+G - - X - - - - -     7. B5 B6
+H - - - - - - - -     8. B2 C2
+                      9. C5 C6
+                      10. G3
+
+Choose your move: f3
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - - - -     5. F4 E4
+F - O O X - - - -     6. E3 F2
+G - - X - - - - -     7. B5 B6
+H - - - - - - - -     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+
+Depth 1: 6.138E-4 seconds
+Depth 2: 0.003061199 seconds
+Depth 3: 0.0491519 seconds
+Depth 4: 0.500247999 seconds
+Optimal move found in: 0.501 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X - - - -     6. E3 F2
+G - - X - - - - -     7. B5 B6
+H - - - - - - - -     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6
+
+Choose your move: h8
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X - - - -     6. E3 F2
+G - - X - - - - -     7. B5 B6
+H - - - - - - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+
+Depth 1: 3.887E-4 seconds
+Depth 2: 0.002460199 seconds
+Depth 3: 0.0533947 seconds
+Optimal move found in: 0.054 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X - X - -     6. E3 F2
+G - - X - - - - -     7. B5 B6
+H - - - - - - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6
+
+Choose your move: g6
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X - X - -     6. E3 F2
+G - - X - - O - -     7. B5 B6
+H - - - - - - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+
+Depth 1: 3.478E-4 seconds
+Depth 2: 0.002394299 seconds
+Depth 3: 0.0639538 seconds
+Optimal move found in: 0.064 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X - X - -     6. E3 F2
+G - - X X - O - -     7. B5 B6
+H - - - - - - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4
+
+Choose your move: g2
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X - X - -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H - - - - - - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+
+Depth 1: 3.425E-4 seconds
+Depth 2: 0.0041548 seconds
+Depth 3: 0.0648942 seconds
+Optimal move found in: 0.065 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X - X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H - - - - - - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7
+
+Choose your move: f5
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H - - - - - - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+
+Depth 1: 3.23199E-4 seconds
+Depth 2: 0.003457499 seconds
+Depth 3: 0.0384436 seconds
+Depth 4: 0.250524699 seconds
+Optimal move found in: 0.251 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H - - - - X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5
+
+Choose your move: h1
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - - -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - - - X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+
+Depth 1: 2.919E-4 seconds
+Depth 2: 0.0028845 seconds
+Depth 3: 0.0338071 seconds
+Depth 4: 0.181858799 seconds
+Optimal move found in: 0.182 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - - - X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7
+
+Choose your move: h4
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - - O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+
+Depth 1: 2.118E-4 seconds
+Depth 2: 0.001956099 seconds
+Depth 3: 0.0193926 seconds
+Depth 4: 0.3203464 seconds
+Optimal move found in: 0.321 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D - X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - X O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+                      17. H3
+
+Choose your move: d1
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D O X O X O X - -     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - X O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+                      17. H3 D1
+
+Depth 1: 2.694E-4 seconds
+Depth 2: 0.0027852 seconds
+Depth 3: 0.017249099 seconds
+Depth 4: 0.1412088 seconds
+Optimal move found in: 0.142 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D O X O X O X - X     4. D2 D3
+E - - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - X O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+                      17. H3 D1
+                      18. D8
+
+Choose your move: 21
+
+Error: space is out of bounds
+Choose your move: e1
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D O X O X O X - X     4. D2 D3
+E O - X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - X O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+                      17. H3 D1
+                      18. D8 E1
+
+Depth 1: 2.134E-4 seconds
+Depth 2: 0.0022334 seconds
+Depth 3: 0.0200171 seconds
+Depth 4: 0.1171143 seconds
+Optimal move found in: 0.118 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D O X O X O X - X     4. D2 D3
+E O X X O - X - -     5. F4 E4
+F - O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - X O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+                      17. H3 D1
+                      18. D8 E1
+                      19. E2
+
+Choose your move: f1
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C - O O X X O - -     3. D6 D5
+D O X O X O X - X     4. D2 D3
+E O X X O - X - -     5. F4 E4
+F O O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - X O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+                      17. H3 D1
+                      18. D8 E1
+                      19. E2 F1
+
+Depth 1: 2.55501E-4 seconds
+Depth 2: 0.001597601 seconds
+Optimal move found in: 0.002 Seconds
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C X O O X X O - -     3. D6 D5
+D O X O X O X - X     4. D2 D3
+E O X X O - X - -     5. F4 E4
+F O O O X O X X -     6. E3 F2
+G - O X X - O - -     7. B5 B6
+H O - X O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+                      17. H3 D1
+                      18. D8 E1
+                      19. E2 F1
+                      20. C1
+
+Choose your move: g1
+
+  1 2 3 4 5 6 7 8   Computer vs. Player
+A - - - - - - X -     1. D4 C3
+B - X - O X O - -     2. C4 B4
+C X O O X X O - -     3. D6 D5
+D O X O X O X - X     4. D2 D3
+E O X X O - X - -     5. F4 E4
+F O O O X O X X -     6. E3 F2
+G O O X X - O - -     7. B5 B6
+H O - X O X - - O     8. B2 C2
+                      9. C5 C6
+                      10. G3 F3
+                      11. E6 H8
+                      12. F6 G6
+                      13. G4 G2
+                      14. F7 F5
+                      15. H5 H1
+                      16. A7 H4
+                      17. H3 D1
+                      18. D8 E1
+                      19. E2 F1
+                      20. C1 G1
+
+Player wins!
+Game Over!
+
+Welcome to the tic-tac-toe puzzle
+Would you like the computer to go first? (y/n)
+n
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: a8
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A - - - - - - - O     1. A8
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 0.0147342 seconds
+Depth 2: 0.1488171 seconds
+Depth 3: 0.4605776 seconds
+Depth 4: 3.0784951 seconds
+Max time reached
+Optimal move found in: 5.000 Seconds
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A - - - - - - - O     1. A8 D4
+B - - - - - - - -
+C - - - - - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: a1
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - - - - -     2. A1
+C - - - - - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 7.645E-4 seconds
+Depth 2: 0.0065975 seconds
+Depth 3: 0.1219336 seconds
+Depth 4: 1.6177049 seconds
+Max time reached
+Optimal move found in: 5.000 Seconds
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - - - - -     2. A1 E5
+C - - - - - - - -
+D - - - X - - - -
+E - - - - X - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: e4
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - - - - -     2. A1 E5
+C - - - - - - - -     3. E4
+D - - - X - - - -
+E - - - O X - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 6.05201E-4 seconds
+Optimal move found in: 0.001 Seconds
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - - - - -     2. A1 E5
+C - - X - - - - -     3. E4 C3
+D - - - X - - - -
+E - - - O X - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: d3
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - - - - -     2. A1 E5
+C - - X - - - - -     3. E4 C3
+D - - O X - - - -     4. D3
+E - - - O X - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 5.83101E-4 seconds
+Depth 2: 0.004585 seconds
+Depth 3: 0.091159801 seconds
+Depth 4: 1.242976101 seconds
+Max time reached
+Optimal move found in: 5.000 Seconds
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - - - - -     2. A1 E5
+C - - X - X - - -     3. E4 C3
+D - - O X - - - -     4. D3 C5
+E - - - O X - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: c4
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - - - - -     2. A1 E5
+C - - X O X - - -     3. E4 C3
+D - - O X - - - -     4. D3 C5
+E - - - O X - - -     5. C4
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 5.453E-4 seconds
+Optimal move found in: 0.001 Seconds
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - - - - -     2. A1 E5
+C - - X O X - - -     3. E4 C3
+D - - O X X - - -     4. D3 C5
+E - - - O X - - -     5. C4 D5
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Choose your move: b5
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - O - - -     2. A1 E5
+C - - X O X - - -     3. E4 C3
+D - - O X X - - -     4. D3 C5
+E - - - O X - - -     5. C4 D5
+F - - - - - - - -     6. B5
+G - - - - - - - -
+H - - - - - - - -
+
+Depth 1: 5.953E-4 seconds
+Optimal move found in: 0.001 Seconds
+
+  1 2 3 4 5 6 7 8   Player vs. Computer
+A O - - - - - - O     1. A8 D4
+B - - - - O - - -     2. A1 E5
+C - - X O X - - -     3. E4 C3
+D - - O X X - - -     4. D3 C5
+E - - - O X - - -     5. C4 D5
+F - - - - X - - -     6. B5 F5
+G - - - - - - - -
+H - - - - - - - -
+
+Computer wins!
+Game Over!
